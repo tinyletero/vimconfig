@@ -2,6 +2,7 @@ syn on                      "语法支持
 
 call pathogen#infect()
 
+"
 "common conf {{             通用配置
 set ai                      "自动缩进
 set bs=2                    "在insert模式下用退格键删除
